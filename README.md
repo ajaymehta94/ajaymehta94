@@ -4,7 +4,63 @@
 
 
 # 💫 About Me:
-I'm currently undergraduate in b.tech it 2nd year<br>I'm studying c , basic DSA in c , after project in c <br>Then I'm studuy c++ and DSA in both language <br>I'm studying web development then go on ai like python language programming is my goal<br>Other skills are that's I'm studying - English<br>Duolingo English score 20<br>Communication both language with work on voice dubing for social media content creation and for lerning<br>
+
+🎓 Education
+
+- Currently pursuing B.Tech in Information Technology (IT).
+- Currently in my 2nd year.
+
+💻 Programming & Development Roadmap
+
+1. C Programming
+
+- Learning C programming fundamentals.
+- Studying basic Data Structures and Algorithms (DSA) in C.
+- Goal: Build projects using C.
+
+⬇️
+
+2. C++ & DSA
+
+- Learn C++ programming.
+- Study Data Structures and Algorithms in both C and C++.
+- Practice problem-solving and improve logical thinking.
+
+⬇️
+
+3. Web Development
+
+- Learn web development.
+- Build websites and practical projects.
+- Develop my frontend and backend development skills.
+
+⬇️
+
+4. AI & Python
+
+- Learn Python programming.
+- Explore Artificial Intelligence (AI) and related technologies.
+- Work towards building AI-based projects.
+
+🌐 English & Communication Skills
+
+1. English Learning
+
+- Improving my English grammar, vocabulary, and sentence formation.
+- Practising English speaking and listening.
+- Current Duolingo English Test practice score: 20.
+
+2. Communication Skills
+
+- Improving my communication skills in both Hindi and English.
+- Practising speaking through voice recordings.
+- Working on voice dubbing for social media content creation.
+- Using voice practice to improve my pronunciation, fluency, and confidence.
+
+🎯 My Main Goal
+
+To become a skilled IT professional with strong programming, problem-solving, web development, and AI skills while improving my English communication and content creation abilities.
+<br>
 
 
 ## 🌐 Socials:

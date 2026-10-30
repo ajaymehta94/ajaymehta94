@@ -14,9 +14,9 @@
 
 1. C Programming
 
-- Learning C programming fundamentals.
-- Studying basic Data Structures and Algorithms (DSA) in C.
-- Goal: Build projects using C.
+- Learning C programming fundamentals.                                                                      ✅
+- Studying basic Data Structures and Algorithms (DSA) in C.                                                 💢
+- Goal: Build projects using C..                                                                            💢
 
 ⬇️
 
@@ -28,7 +28,7 @@
 
 ⬇️
 
-3. Web Development
+3. Web Development ❌
 
 - Learn web development.
 - Build websites and practical projects.
@@ -36,7 +36,7 @@
 
 ⬇️
 
-4. AI & Python
+4. AI & Python.    ❌
 
 - Learn Python programming.
 - Explore Artificial Intelligence (AI) and related technologies.
@@ -44,7 +44,7 @@
 
 🌐 English & Communication Skills
 
-1. English Learning
+1. English Learning. 💹
 
 - Improving my English grammar, vocabulary, and sentence formation.
 - Practising English speaking and listening.
